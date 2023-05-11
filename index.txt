@@ -5,3 +5,4 @@ useful_event_listner.html
 Canvas Pixelgrafik.html
 Ex1_StoreCustomer.html
 HTML Form No Formtag.html
+HTML Session Storage.html
