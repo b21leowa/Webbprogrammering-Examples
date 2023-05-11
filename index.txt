@@ -10,3 +10,4 @@ HTML Timers.html
 HTML Transition Effects.html
 HTML Effect DOM Navigation.html
 Canvas Gradient.html
+HTML Variable.html
