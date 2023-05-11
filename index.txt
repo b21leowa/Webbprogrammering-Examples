@@ -14,3 +14,4 @@ HTML Effect Toggle Class.html
 HTML Css Iteration.html
 Canvas Draw Objects.html
 Canvas Immediate.html
+HTML Console.html
