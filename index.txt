@@ -7,3 +7,4 @@ Ex1_StoreCustomer.html
 HTML Form No Formtag.html
 HTML Session Storage.html
 HTML Timers.html
+HTML Transition Effects.html
