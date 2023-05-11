@@ -15,3 +15,4 @@ HTML Css Iteration.html
 Canvas Draw Objects.html
 Canvas Immediate.html
 HTML Console.html
+Canvas Shadow.html
